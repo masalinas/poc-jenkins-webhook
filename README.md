@@ -21,7 +21,7 @@ Select generic pipeline to trigger the pipeline
 
 - Configure token to select a particular repo in our case: poc-jenkins-webhook
 
-![Pipeline token](captures/pipeline_token.png "Pipeline token"
+![Pipeline token](captures/pipeline_token.png) "Pipeline token"
 
 - Create a variable to control develop pipeline
 

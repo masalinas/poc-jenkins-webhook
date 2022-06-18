@@ -48,4 +48,8 @@ Select generic pipeline to trigger the pipeline
 
     In our case we must select only the tag master branch, will be **^(refs/tags/.+)$**
 
-![Mater Tag pipeline config](captures/tag_master_config.png)   
+![Mater Tag pipeline config](captures/tag_master_config.png)
+
+## Some links
+
+[Github Generic Jenkins](https://github.com/jenkinsci/generic-webhook-trigger-plugin/tree/master/src/test/resources/org/jenkinsci/plugins/gwt/bdd/github)  

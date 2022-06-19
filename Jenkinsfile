@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Test') {
             steps {
-                sh 'echo Develop pipeline executed'
+                sh 'echo Master pipeline executed'
             }
         }
     }
